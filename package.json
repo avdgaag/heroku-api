@@ -1,0 +1,17 @@
+{
+  "name":        "heroku-api",
+  "version":     "0.1.0",
+  "description": "A thin wrapper around the Heroku API",
+  "keywords":    ["API", "Heroku"],
+  "author":      "Arjan van der Gaag <arjan@arjanvandergaag.nl>",
+  "repository":  {
+    "type": "git",
+    "url":  "git://github.com/avdgaag/heroku-api.git"
+  },
+  "main": "./index",
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha":     "*",
+    "nock":      "*"
+  }
+}
