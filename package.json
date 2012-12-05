@@ -12,6 +12,7 @@
   "devDependencies": {
     "expect.js": "*",
     "mocha":     "*",
-    "nock":      "*"
+    "nock":      "*",
+    "docco":     "*"
   }
 }
