@@ -11,7 +11,7 @@ describe('JsonData', function() {
   });
 
   it('parses data as JSON', function() {
-    json_string = '{ "foo": "bar" }';
+    var json_string = '{ "foo": "bar" }';
     expect(new JsonData(json_string).toJSON()).to.eql({ 'foo': 'bar' });
   });
 
