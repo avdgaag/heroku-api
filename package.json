@@ -14,5 +14,8 @@
     "mocha":     "*",
     "nock":      "*",
     "docco":     "*"
+  },
+  "scripts": {
+    "test": "mocha --globals key"
   }
 }
