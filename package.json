@@ -1,6 +1,6 @@
 {
   "name":        "heroku-api",
-  "version":     "0.1.1",
+  "version":     "0.1.2",
   "description": "A thin wrapper around the Heroku API",
   "keywords":    ["API", "Heroku"],
   "author":      "Arjan van der Gaag <arjan@arjanvandergaag.nl>",
